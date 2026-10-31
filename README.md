@@ -1,3 +1,6 @@
+# NAME: AAKASH R
+# REGISTER NO: 212224060002
+# DATE:31.10.26
 # Ex.No.4b--MACHINE-LEARNING-MODEL-HEART-DISEASE-PREDICTION
 ## AIM
 To develop a Heart Disease Prediction model using machine learning classification algorithms and compare the performance of different models using suitable evaluation metrics.
